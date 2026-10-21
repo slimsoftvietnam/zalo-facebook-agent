@@ -7,12 +7,14 @@ A Codex skill for preparing and carrying out user-requested Facebook posts and p
 Use the Codex Skill Installer with this repository path:
 
 ```sh
-python3 "$CODEX_HOME/skills/.system/skill-installer/scripts/install-skill-from-github.py" --repo slimsoftvietnam/zalo-facebook-agent --path skills/zalo-facebook-agent
+python3 "${CODEX_HOME:-$HOME/.codex}/skills/.system/skill-installer/scripts/install-skill-from-github.py" --repo slimsoftvietnam/zalo-facebook-agent --path skills/zalo-facebook-agent
 ```
 
 Or ask Codex:
 
 ```text
+$skill-installer
+
 Install the `zalo-facebook-agent` skill from `slimsoftvietnam/zalo-facebook-agent`, path `skills/zalo-facebook-agent`. Read its instructions and confirm how to invoke it. Do not perform any social media actions during installation.
 ```
 
