@@ -32,6 +32,8 @@ This guide defines voice and writing style, not a fixed offer or campaign. Do no
 - When addressing the recipient as “anh/chị”, refer to the sender as “em” consistently throughout the message.
 - Use short paragraphs separated by blank lines.
 - Identify the sender and organization when that information is supplied and relevant.
+- **First-message order (cold outreach):** (1) open with the recipient: one modest, verified signal about them or their company from the task's source (a role, a public post, a program the company ran); (2) introduce the sender and organization, then the offer in one or two plain sentences using only facts from the source (for a course: format, number of sessions, what learners do); (3) ask the direct question the task needs answered, e.g. whether the recipient is in charge of the relevant area; (4) when the aim is to find the right contact, add a polite fallback: if it is not their area, ask for the contact of the person in charge. Ask directly in the first message; do not spend a message on warm-up alone.
+- Keep the whole first message short: about four short paragraphs, one question each for (3) and (4). No pricing, dates, or claims the source does not confirm.
 - Personalize only from a verified, task-provided signal. State the signal modestly and connect it to a relevant question; do not imply a known need, prior relationship, or private knowledge.
 - State the current offer or proposed next step from the task's source material in concrete terms. If no offer details are supplied, ask what to promote instead of reusing an old one.
 - Keep the ask low-pressure and specific, such as asking whether the topic is relevant or whether the recipient would like more information, when that matches the stated purpose.
